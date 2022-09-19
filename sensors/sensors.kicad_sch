@@ -1002,8 +1002,34 @@
     (pin "3" (uuid 0992ce3d-1cf5-4538-828c-701b20e7c5f8))
   )
 
+  (sheet (at 71.755 107.95) (size 43.815 52.07) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 37e107f4-8cbf-453d-a226-e8f63571ca96)
+    (property "Sheet name" "Rasp_pi" (id 0) (at 71.755 107.2384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Rasp_pi.kicad_sch" (id 1) (at 71.755 160.6046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 205.74 57.785) (size 44.45 36.83) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d22c6e0e-8d6d-4131-8956-db92227f13bc)
+    (property "Sheet name" "Arduino" (id 0) (at 205.74 57.0734 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Arduino.kicad_sch" (id 1) (at 205.74 95.1996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/d22c6e0e-8d6d-4131-8956-db92227f13bc" (page "2"))
+    (path "/37e107f4-8cbf-453d-a226-e8f63571ca96" (page "3"))
   )
 
   (symbol_instances
@@ -1043,6 +1069,9 @@
     (path "/8c6b597d-bee8-46a2-acc2-bece2c7140aa"
       (reference "D?") (unit 1) (value "1N4007") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
+    (path "/37e107f4-8cbf-453d-a226-e8f63571ca96/dfaeec22-2638-4fb5-bf95-905695ea8b23"
+      (reference "J?") (unit 1) (value "Raspberry_Pi_2_3") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical")
+    )
     (path "/eb4d7b06-f329-4c44-9bca-d22a891e35c2"
       (reference "J?") (unit 1) (value "Barrel_Jack_Switch") (footprint "Connector_BarrelJack:BarrelJack_Horizontal")
     )
@@ -1057,6 +1086,9 @@
     )
     (path "/cb8f0638-fb3e-49e1-adf1-3de9f3de3147"
       (reference "U?") (unit 1) (value "L7805") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
+    )
+    (path "/d22c6e0e-8d6d-4131-8956-db92227f13bc/9e0a981b-05b3-467f-8476-12c979e50544"
+      (reference "XA?") (unit 1) (value "Arduino_Mega2560_Shield") (footprint "Arduino:Arduino_Mega2560_Shield")
     )
   )
 )

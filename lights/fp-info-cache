@@ -1,4 +1,914 @@
-20386205944351545
+20650717724966029
+AL Library
+2.4LCD_TOUCH_SD
+
+
+0
+18
+18
+AL Library
+3.5mmAudioJack
+TRS 3.5mm, horizontal, through-hole, , circular holeshttps://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+6
+3
+AL Library
+3_Button_Touch_W_Guard
+
+
+0
+9
+4
+AL Library
+6x6_TACT_SW_SHIELDED
+
+
+0
+5
+3
+AL Library
+6xSMD_wire_pads
+
+
+0
+6
+6
+AL Library
+9mm_SMD_BUZZER
+
+
+0
+2
+2
+AL Library
+9mm_SMD_THT_HYBRID_BUZZER
+
+
+0
+6
+2
+AL Library
+9mm_THT_BUZZER
+
+
+0
+2
+2
+AL Library
+15-PIN-SMT-HEADER
+WIRE-TO-BOARD  1.50MM (.059") PITCH HEADER - RIGHT ANGLE, SMT, SHROUDED
+WIRE-TO-BOARD  1.50MM (.059") PITCH HEADER - RIGHT ANGLE, SMT, SHROUDED
+0
+15
+15
+AL Library
+0603_NC_Jumper
+Resistor SMD 0603, hand soldering
+resistor 0603
+0
+2
+2
+AL Library
+0475710001
+0475710001-2
+Connector
+0
+13
+13
+AL Library
+0528850474
+0528850474-1
+Connector
+0
+42
+42
+AL Library
+AQH-SSR
+
+
+0
+7
+7
+AL Library
+BERG_4PIN
+Through hole straight pin header, 1x04, 2.5mm pitch, single row
+Through hole pin header THT 1x04 2.5mm single row
+0
+4
+4
+AL Library
+BK-18650-PC6
+
+
+0
+6
+2
+AL Library
+BK-18650-PC6-PC4-HYBRID
+
+
+0
+10
+2
+AL Library
+BUZ-TH_PKM13EPYH4002-B0
+
+
+0
+4
+2
+AL Library
+BarrelJack_XKB_DC025LBM-5A
+XKB Connectivity Barrel Jack
+connector barrel jack
+0
+3
+3
+AL Library
+BatteryHolder_CR2032-BS-6-1_1x2032
+https://lcsc.com/product-detail/Battery-Holders-Clips-Contacts_Q-J-CR2032-BS-6-1_C70377.html
+CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+AL Library
+CON-BERG_PN61729-S
+USB CONNECTOR WITH SHIELD
+USB CONNECTOR WITH SHIELD
+0
+6
+6
+AL Library
+CONN-SMD_AXE520127
+
+
+0
+24
+24
+AL Library
+Crystal_SMD_5032_2Pads_THT_HYBRID
+Ceramic SMD crystal, 5.0x3.2mm, 2 Pads
+crystal oscillator quartz SMD SMT 5032
+0
+4
+2
+AL Library
+DB9MC
+Connecteur DB9 male couche
+CONN DB9
+0
+22
+9
+AL Library
+DB9_MALE_DOUBLE_STACKED
+SUB-D
+SUB-D
+0
+22
+20
+AL Library
+DC-IN-TH_DC-005-5A-2.0
+
+
+0
+3
+3
+AL Library
+DFN-8-1EP_3x3mm_Pitch0.65mm_HANDSOLDER
+8-Lead Plastic Dual Flat, No Lead Package (MF) - 3x3x0.9 mm Body [DFN] (see Microchip Packaging Specification 00000049BS.pdf)
+DFN 0.65
+0
+12
+9
+AL Library
+DFN14-EP-3x3
+
+
+0
+15
+15
+AL Library
+DHT11-22
+
+
+0
+4
+4
+AL Library
+ELNA_DC_SUPERCAP
+
+
+0
+2
+2
+AL Library
+ESP-07_12_12E
+
+
+0
+22
+22
+AL Library
+ESP8266_ESP-03
+
+
+0
+14
+8
+AL Library
+FPC-SMD_FH12-6S-0.5SH-55
+
+
+0
+8
+8
+AL Library
+FX135
+
+
+0
+2
+2
+AL Library
+Fiducial_1.5mm
+Very small modern type fiducial (Adafruit recommendations)
+Fiducial
+0
+1
+1
+AL Library
+Fiducial_1.5mm_2layer
+Very small modern type fiducial (Adafruit recommendations)
+Fiducial
+0
+2
+1
+AL Library
+GC_MEMCARD
+
+
+0
+12
+12
+AL Library
+GRIDEYE
+
+
+0
+14
+14
+AL Library
+HC-SR501
+
+
+0
+3
+3
+AL Library
+HDMI-SMD_HDMI-019S
+
+
+0
+23
+20
+AL Library
+HLK-PM01
+
+
+0
+4
+4
+AL Library
+HM10-FOOTPRINT
+
+
+0
+34
+22
+AL Library
+I4-PAK
+
+
+0
+5
+5
+AL Library
+IND_1008
+
+
+0
+2
+2
+AL Library
+JAE-ADC-T1YA
+
+
+0
+38
+38
+AL Library
+JOSH-LANGE_LQFP48
+
+
+0
+48
+48
+AL Library
+LARGE_TESTPOINT_SMT
+SURFACE MOUNT TEST POINT - COMPACT SMT
+SURFACE MOUNT TEST POINT - COMPACT SMT
+0
+1
+1
+AL Library
+LED-SEG-TH_FJ5161BH
+
+
+0
+10
+10
+AL Library
+LED-SEG-TH_FJ5461AH
+
+
+0
+12
+12
+AL Library
+LED-TH_LH32K051F
+
+
+0
+4
+4
+AL Library
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder_Slots
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+4
+3
+AL Library
+LED_1206_REVERSE_MOUNT_2layer
+LED 1206 smd package
+LED1206 SMD
+0
+4
+2
+AL Library
+LED_RGB_1206_3528
+
+
+0
+4
+4
+AL Library
+LED_SunLED_XZM2
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
+0
+2
+2
+AL Library
+LGA-8_L6.0-W8.0-P1.27-BL
+
+
+0
+8
+8
+AL Library
+MAXIM_DIL16
+DUAL IN LINE PACKAGE
+DUAL IN LINE PACKAGE
+0
+16
+16
+AL Library
+MAXIM_SO16
+SMALL OUTLINE PACKAGE .150 SIOC
+SMALL OUTLINE PACKAGE .150 SIOC
+0
+16
+16
+AL Library
+MAXIM_SO16L
+SMALL OUTLINE PACKAGE .300 SIOC
+SMALL OUTLINE PACKAGE .300 SIOC
+0
+16
+16
+AL Library
+MAXIM_TSSOP16
+THIN SHRINK SMALL OUTLINE PLASTIC 16
+THIN SHRINK SMALL OUTLINE PLASTIC 16
+0
+16
+16
+AL Library
+MCP2200_MCP2200
+THIS IS A SIMPLE SOIC FOOTPRINT FOR MCP2200 BY MICROCHIP
+THIS IS A SIMPLE SOIC FOOTPRINT FOR MCP2200 BY MICROCHIP
+0
+20
+20
+AL Library
+MEM20750014001A
+MEM2075-00-140-01-A-1
+Connector
+0
+13
+10
+AL Library
+MICROSD_PUSH_IN
+
+
+0
+12
+12
+AL Library
+MINI_DIN4_ADB
+
+
+0
+7
+7
+AL Library
+MINI_DIN4_ADB_SLOTS
+
+
+0
+7
+5
+AL Library
+MINI_DIN6_PS2
+
+
+0
+9
+9
+AL Library
+MINI_DIN6_PS2_SLOTS
+
+
+0
+9
+7
+AL Library
+MINI_DIN8
+
+
+0
+11
+11
+AL Library
+MINI_DIN8-1H
+
+
+0
+9
+9
+AL Library
+MLPD-UT102X2
+
+
+0
+11
+11
+AL Library
+MOLEX-DVI-74320-1000
+
+
+0
+32
+32
+AL Library
+MOLEX-DVI-74320-9014
+
+
+0
+30
+30
+AL Library
+MountingHole_3.2mmx10_slot
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+AL Library
+OV2640FSL
+
+
+0
+26
+26
+AL Library
+PHOTOCELL_EDGE_MOUNT
+
+
+0
+2
+2
+AL Library
+POWERDI3333-8
+QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)
+diode qfn 3.3
+0
+3
+3
+AL Library
+PVSON-N14
+
+
+0
+15
+15
+AL Library
+PinHeader_2x25_P2.54mm_Vertical_Shrouded
+Through hole straight pin header, 2x25, 2.54mm pitch, double rows
+Through hole pin header THT 2x25 2.54mm double row
+0
+50
+50
+AL Library
+PlugEVSE_Rev-
+
+
+0
+24
+24
+AL Library
+QUAD_VERT_LED_FP
+
+
+0
+8
+8
+AL Library
+RGB_0805
+
+
+0
+4
+4
+AL Library
+RJ45-TH_HR913550A
+
+
+0
+16
+13
+AL Library
+ROTARY_ENCODER_SWITCH
+
+
+0
+7
+6
+AL Library
+RRD-102
+
+
+0
+10
+10
+AL Library
+Relay_TDK_RZ03_1A3
+Standex-Meder SIL-relais, UMS, see http://cdn-reichelt.de/documents/datenblatt/C300/UMS05_1A80_75L_DB.pdf
+Standex Meder SIL reed relais
+0
+6
+4
+AL Library
+SD-50BV
+
+
+0
+12
+6
+AL Library
+SOD-123-TUMD2M-HYBRID
+SOD-123
+SOD-123
+0
+3
+2
+AL Library
+SOIC-8-1EP_3.9x4.9mm_Pitch1.27mm_HANDSOLDER
+8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+12
+9
+AL Library
+SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+8
+8
+AL Library
+SOP-32_L21.0-W7.5-P1.27-LS10.4-BL
+
+
+0
+32
+32
+AL Library
+SOT-323_HANDSOLDER
+
+SMD SOT
+0
+3
+3
+AL Library
+SOT-323_SOT-23_HYBRID_HANDSOLDER
+
+SMD SOT
+0
+6
+3
+AL Library
+SPANSION_SO16W
+SMALL OUTLINE INTEGRATED CIRCUIT
+SMALL OUTLINE INTEGRATED CIRCUIT
+0
+16
+16
+AL Library
+SSOP-8_L2.0-W2.3-P0.50-LS3.1-BR
+
+
+0
+8
+8
+AL Library
+SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL
+
+
+0
+16
+16
+AL Library
+ST40X-18S
+
+
+0
+18
+18
+AL Library
+SW-TH_SPPJ310500
+
+
+0
+5
+4
+AL Library
+SWD_CONN
+SMD 2x5 pin header, 1.27mm pitch
+
+0
+10
+10
+AL Library
+SWITCH-SPDT-SMD-A
+
+
+0
+7
+7
+AL Library
+SW_TACT_6x6
+
+
+0
+4
+2
+AL Library
+TACT_SW_RA_8.35MM
+
+
+0
+4
+4
+AL Library
+TF-015
+TF-015 MicroSD connector (also TF-15x15 and TF-115)
+Connector
+0
+13
+10
+AL Library
+TF-015_MEM2075_HYBRID
+TF-015 MicroSD connector (also TF-15x15 and TF-115)
+Connector
+0
+15
+10
+AL Library
+TSOP3x_SMD
+
+
+0
+3
+3
+AL Library
+TestPointSMT_2_54x10
+
+
+0
+1
+1
+AL Library
+UNIVERSAL_AA_HOLDER
+
+
+0
+10
+2
+AL Library
+USB-A-DUAL-TH_KH-2AF90DIP-1715
+
+
+0
+12
+9
+AL Library
+USB-A-TH_4P-P1.40-V-F-C39416
+
+
+0
+7
+7
+AL Library
+USB-C-SMD_918-518K2023S50000
+
+
+0
+20
+17
+AL Library
+USB-C-SMD_GT-USB-7051A
+
+
+0
+20
+17
+AL Library
+USB-C-TH_TYPE-C-31-M-19
+
+
+0
+20
+15
+AL Library
+USB_A_HORIZ_VERT_COMBO
+http://www.connfly.com/userfiles/image/UpLoadFile/File/2013/5/6/DS1095.pdf
+USB-A receptacle horizontal through-hole
+0
+9
+5
+AL Library
+USB_Micro-B_KHE_U-F-M5WD-W-1
+USB Micro-B receptacle, https://datasheet.lcsc.com/lcsc/1811131824_Korean-Hroparts-Elec-U-F-M5WD-W-1_C145779.pdf
+usb micro receptacle
+0
+7
+6
+AL Library
+USB_Micro_A_SMD
+
+
+0
+11
+6
+AL Library
+USB_Micro_A_SMD_HANDSOLDER
+
+
+0
+9
+6
+AL Library
+USB_Micro_A_SMD_HANDSOLDER_SMALLPADS
+
+
+0
+9
+6
+AL Library
+VPAD_VPAC0
+
+
+0
+1
+1
+AL Library
+WIRELM-SMD_ESP32-S3-WROOM-1
+
+
+0
+49
+41
+AL Library
+WSON-12_L3.0-W3.0-P0.45-BL-EP
+
+
+0
+13
+13
+AL Library
+XKB_VERT_TACTSW
+
+
+0
+3
+3
+AL Library
+oled-1.3-spi
+
+
+0
+11
+7
+AL Library
+pcb_nut_m3
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+1
+1
+AL Library
+potentiometer_3x5mm
+Potentiometer, vertical, Bourns 3339P, hand-soldering, http://www.bourns.com/docs/Product-Datasheets/3339.pdf
+Potentiometer vertical Bourns 3339P hand-soldering
+0
+3
+3
+Arduino
+Arduino_101_Shield
+https://store.arduino.cc/genuino-101
+
+0
+38
+38
+Arduino
+Arduino_Due_Shield
+https://store.arduino.cc/arduino-due
+
+0
+92
+91
+Arduino
+Arduino_Leonardo_Shield
+https://store.arduino.cc/arduino-leonardo-with-headers
+
+0
+38
+37
+Arduino
+Arduino_Mega2560_Shield
+https://store.arduino.cc/arduino-mega-2560-rev3
+
+0
+92
+91
+Arduino
+Arduino_Micro_Socket
+https://store.arduino.cc/arduino-micro
+
+0
+34
+32
+Arduino
+Arduino_Mini_Socket
+https://store.arduino.cc/arduino-mini-05
+
+0
+35
+35
+Arduino
+Arduino_Nano_Socket
+https://store.arduino.cc/arduino-nano
+
+0
+30
+30
+Arduino
+Arduino_Uno_Shield
+https://store.arduino.cc/arduino-uno-rev3
+
+0
+38
+37
+Arduino
+Arduino_Zero_Shield
+https://store.arduino.cc/genuino-zero
+
+0
+38
+38
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -48971,6 +49881,13 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Converter_DCDC_China
+Mini-360
+
+
+0
+4
+4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -75088,6 +76005,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+PiBoards
+OrangePiZero
+
+
+0
+46
+46
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -86022,3 +86946,192 @@ varistor SIOV
 0
 2
 2
+allwinner_sochip_s3
+BGA-256_16x16_11.0x11.0mm
+Allwinner Sochip S3
+Allwinner Sochip S3
+0
+234
+234
+china-audio-transformer
+china-audio-transformer
+
+
+0
+4
+4
+dsub
+DSUB-15-HD_Female_CONNFLY_Elec_DS1038-15FBNSiA74-0CC_Horizontal
+CONNFLY Elec DS1038-15FBNSiA74-0CC 
+
+0
+17
+16
+eMMC
+BGA-196_14x14_11.5x13.0mm
+
+
+0
+153
+153
+inductor
+L_Bourns-SRR7045
+
+
+0
+2
+2
+lightpipe
+Lightpipe_CHL-02AB
+
+
+0
+0
+0
+rhinodavid
+74AUP1T00GW
+Small Outline Pkg (SOP), 0.65 mm pitch; 5 pin, 2.20 mm L X 1.35 mm W X 1.10 mm H body
+SOT353-1 Small Outline Pkg (SOP), 0.65 mm pitch; 5 pin, 2.20 mm L X 1.35 mm W X 1.10 mm H body
+0
+5
+5
+rhinodavid
+74AUP1T00GX
+plastic thermal enhanced extremely thin small outline package; no leads; 5 terminals; body 0.8 × 0.8 × 0.32 mm
+SOT1226-3 X2SON5 
+0
+5
+5
+rhinodavid
+1206L150TH
+Polymeric PTC Resettable Fuse 8V 1.5 A Ih Surface Mount 1206 (3216 Metric), Concave
+Polymeric PTC Resettable Fuse 8V 1.5 A Ih Surface Mount 1206 (3216 Metric), Concave dmw
+0
+2
+2
+rhinodavid
+831068248
+
+
+0
+4
+4
+rhinodavid
+AMCA31-2R450G-S1F-T3
+Antenna, Chip; 3.20 mm L X 1.60 mm W X 1.40 mm H body
+AMCA31-2R450G-S1F-T3 Antenna, Chip; 3.20 mm L X 1.60 mm W X 1.40 mm H body dmw
+0
+2
+2
+rhinodavid
+BU33UV7NUX
+Small Outline No-Lead (SON) with Thermal Tab, 0.50 mm pitch; 10 pin, 2.00 mm L X 2.00 mm W X 0.60 mm H body VSON010X3020
+VSON010X3020 BU33UV7NUX dmw
+0
+11
+11
+rhinodavid
+DMN2005K-7
+Small Outline Transistor, SOT-23 Type, 0.915 mm pitch; 3 pin, 2.90 mm L X 1.30 mm W X 1.10 mm H body
+
+0
+3
+3
+rhinodavid
+EC-10
+Tag Connect EdgeConnect 10-pin Castellated Board-Edge Connector to 10-pin 0.1″ pitch ribbon connector
+EC-10 Tag Connect EdgeConnect SWD JTAG Debug dmw
+0
+10
+10
+rhinodavid
+ECX-1637
+Oscillator, Corner Concave; 2.00 mm L X 1.60 mm W X 0.46 mm H body
+Oscillator, Corner Concave; 2.00 mm L X 1.60 mm W X 0.46 mm H body ECS-320-8-37-CKM-TR3
+0
+4
+4
+rhinodavid
+JTX310
+Crystal 2-SMD, No Lead
+Q 0,032768-JTX310-7-20-T1-HMR-LF JTX310 Crystal Oscillator 32.7680KHZ 7PF SMD dmw stm32
+0
+2
+2
+rhinodavid
+LDL1117S33R
+Small Outline Transistor, SOT-223 Type, 2.30 mm pitch; 4 pin, 6.50 mm L X 3.50 mm W X 1.80 mm H body
+
+0
+4
+4
+rhinodavid
+MMSZ5261BT1G
+Diode, Small Outline Diode (SOD); 2.69 mm L X 1.60 mm W X 1.35 mm H body
+DIODE ZENER 47V 500MW SOD123
+0
+2
+2
+rhinodavid
+OLED-SSD1306-128X64_folded
+128x64 OLED display folded at the cable. The outline shown in F.Fab properly accounts for the thickness of the fold.
+display oled buydisplay 128x64
+0
+30
+30
+rhinodavid
+PKMCS0909E4000-R1
+BUZZER PIEZO 1.5V 9X9MM SMD
+BUZZER PIEZO 1.5V 9X9MM SMD
+0
+2
+2
+rhinodavid
+SK6812MINI
+NEOPIXEL MINI 3535 RGB 3.5x3.7x1.1mm
+Neopixel LED 3535 WS2812 SK6812MINI
+0
+4
+4
+rhinodavid
+SMBJ8.0D-M3H
+13.4V Clamp 44.8A Ipp Tvs Diode Surface Mount DO-214AA (SMBJ)
+13.4V Clamp 44.8A Ipp Tvs Diode Surface Mount DO-214AA (SMBJ) dmw USB_dmw
+0
+2
+2
+rhinodavid
+SSM3J331R
+P-Channel 20 V 4A (Ta) 1W (Ta) Surface Mount SOT-23F TOSHIBA package name 2-3Z1S
+MOSFET P-CH 20V 4A SOT23F 2-3Z1S dmw
+0
+3
+3
+rhinodavid
+TBL003-254-04GR-2OR
+4 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole
+4 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole dmw
+0
+8
+8
+rhinodavid
+TLSM-DT-3-C-020-G-LFS
+Tactile Switch SPDT Top Actuated Surface Mount 6.1mm x 6.0mm
+SWITCH TACT 6MM 2N IP54 SMT
+0
+4
+4
+rhinodavid
+TPS61098x
+Texas Instruments WSON6 1.50 mm x 1.5 mm
+WSON6_1.5x1.5mm_P0.5mm TPS61098x dmw
+0
+6
+6
+rj45-multi
+RJ45-multi
+
+RJ45
+0
+12
+9
